@@ -90,6 +90,18 @@ Apply your Excel skills in real business scenarios to **drive impact**:
 
 ---
 
+## 📺 Recommended YouTube Resources
+
+Here are some top YouTube channels that provide excellent tutorials and real-world projects:
+
+- (https://www.youtube.com/watch?v=lH7HfwUFnYA&list=PLUaB-1hjhk8Hyd5NiPQ9CND82vNodlFF5)
+- (https://www.youtube.com/watch?v=OX-iyb-21tk)  
+- (https://www.youtube.com/watch?v=7W95pylDH8M)  
+- (https://www.youtube.com/watch?v=Y1NNQV8MdnA&list=PLximbScRxaFOdtMbofwvaMUTUPWu_BFxx)  
+- (https://www.youtube.com/watch?v=B5hayFelHDU)
+- (https://www.youtube.com/watch?v=gTK5rNhWJyA)
+- (https://www.youtube.com/watch?v=pCJ15nGFgVg)
+  
 ## 🏁 Conclusion
 
 Mastering Excel for data analysis means more than just knowing formulas. It’s about:
