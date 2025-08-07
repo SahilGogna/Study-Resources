@@ -64,22 +64,38 @@ GPA (if >3.0), Dean’s List (if applicable), Relevant Coursework
 ---
 
 ### **Projects**
-**Example:**
+**Example (using CAR: Challenge → Action → Result):**
+
 **Sales Data Analysis**  
-Used Python, Pandas, and Matplotlib to analyze over 1M sales transactions. Identified seasonal churn and recommended strategies projected to reduce revenue loss by 20%.
+- **Challenge:** Seasonal customer churn was impacting revenue.  
+- **Action:** Used Python, Pandas, and Matplotlib to analyze over 1M sales transactions, identifying patterns in customer behavior.  
+- **Result:** Recommended data-driven retention strategies projected to reduce revenue loss by 20%.  
 
 **Tip:** Structure bullet points as:  
-`What you did → With what tools → What was the result`
+`Challenge → Action (with tools) → Result (quantifiable impact)`
 
 ---
 
 ### **Experience**
-**Example:**
+**Example (using STAR: Situation → Task → Action → Result):**
+
 **Data Analyst Intern**  
 ABC Inc., Toronto, ON  
 May 2023 – Aug 2023  
-- Automated weekly Excel reports, reducing reporting time by 40%.  
-- Built Tableau dashboards for monthly performance tracking.  
+- **Situation:** Monthly performance reporting was slow and prone to errors.  
+- **Task:** Improve reporting efficiency for the analytics team.  
+- **Action:** Automated weekly Excel reports and built Tableau dashboards for real-time tracking.  
+- **Result:** Reduced reporting time by 40% and improved data accuracy for decision-making.  
+
+---
+
+**Why use CAR / STAR?**
+- Forces you to focus on **impact**, not just tasks.  
+- Makes bullet points more **specific and memorable**.  
+- Highlights both your **problem-solving process** and the **outcome**.  
+
+**Formula to remember:**  
+> **[Action Verb] + [What you did] + [Tools used] + [Quantifiable result]**
 
 ---
 
