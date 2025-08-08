@@ -2,6 +2,7 @@
 
 Welcome to the **Study Resources** repository — a growing collection of curated learning roadmaps and practical guides to help you level up in tech and data roles. Whether you're a student, job aspirant, or working professional, this repo offers beginner-to-intermediate level study paths that are clear, actionable, and practice-focused.
 
+Feel free to ⭐ the repo if you find this helpful. Happy learning!
 ---
 
 ## 🗂 What's Inside?
