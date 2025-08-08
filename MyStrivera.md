@@ -1,5 +1,3 @@
----
-
 ## 🌟 Join the MyStrivera Community
 
 **What is MyStrivera?**  
