@@ -4,21 +4,37 @@ Welcome to the **Study Resources** repository — a growing collection of curate
 
 Feel free to ⭐ the repo if you find this helpful. Happy learning!
 ---
-
 ## 🗂 What's Inside?
 
 This repository currently includes:
 
 - [`sql.md`](./sql.md)  
-  A comprehensive SQL guide including fundamentals, practice questions, dataset setup, and query solutions.
+  A comprehensive SQL guide with fundamentals, practice questions, dataset setup, and query solutions.
 
 - [`excel-roadmap.md`](./excel-roadmap.md)  
-  Learn how to apply Excel in real business scenarios: from formulas to dashboards and analytics workflows.
+  Learn how to use Excel for real business scenarios — from formulas to dashboards and analytics workflows.
 
 - [`data-visualization.md`](./data-visualization.md)  
-  A beginner's guide to learning data visualization — tool selection, best practices, datasets, and portfolio building.
+  A beginner’s guide to data visualization — tools, best practices, datasets, and portfolio-building tips.
 
-More guides will be added regularly, including ones on Python, Power BI, Tableau, Machine Learning, and more.
+- [`how-to-launch-a-career-in-IT.md`](./how-to-launch-a-career-in-IT.md)  
+  A roadmap for breaking into IT, exploring career paths, required skills, and entry strategies.
+
+- [`job-application-process-guide.md`](./job-application-process-guide.md)  
+  Step-by-step instructions to master the job application process and stand out to recruiters.
+
+- [`resume-guide.md`](./resume-guide.md)  
+  Proven tips and examples to craft a professional, job-winning resume.
+
+- [`cover-letter.md`](./cover-letter.md)  
+  Strategies and templates for writing impactful cover letters.
+
+- [`linkedin.md`](./linkedin.md)  
+  A guide to optimizing your LinkedIn profile for visibility and networking.
+
+- [`MyStrivera.md`](./MyStrivera.md)  
+  Details about MyStrivera —Canada's strongest tech community.
+
 
 ---
 
