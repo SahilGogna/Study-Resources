@@ -177,6 +177,7 @@ This document provides a **comprehensive overview** of different **Business Anal
 - Critical thinking & structured problem-solving.  
 - Presentation & storytelling (data + visuals).  
 - Negotiation & conflict resolution.  
+- [Learn Case Studies](https://www.youtube.com/watch?v=r2YFEF1fr5g&list=PLr8ZktQPP1MhBKiXpOCBYMi4ErjaOu6Fh)
 
 ---
 
