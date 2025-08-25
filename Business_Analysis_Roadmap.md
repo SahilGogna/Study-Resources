@@ -109,7 +109,7 @@ This document provides a **comprehensive overview** of different **Business Anal
 - Perform customer segmentation with Pivot Tables.  
 
 **Learning Resources:**  
-- [My Git Repo](https://github.com/SahilGogna/Study-Resources/blob/main/excel-roadmap.md)
+- (https://github.com/SahilGogna/Study-Resources/blob/main/excel-roadmap.md)
 - [Excel Jet](https://exceljet.net/)  
 - [Microsoft Excel Support](https://support.microsoft.com/en-us/excel)  
 
@@ -129,7 +129,7 @@ This document provides a **comprehensive overview** of different **Business Anal
 - Compare product sales across regions with drill-down analysis.  
 
 **Learning Resources:**  
-- [Data Visualization](https://github.com/SahilGogna/Study-Resources/blob/main/data-visualization.md)
+- (https://github.com/SahilGogna/Study-Resources/blob/main/data-visualization.md)
 - [Microsoft Power BI Learn](https://learn.microsoft.com/en-us/power-bi/)  
 - [Tableau Free Training](https://www.tableau.com/learn/training)  
 
