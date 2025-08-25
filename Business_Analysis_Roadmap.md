@@ -150,6 +150,7 @@ This document provides a **comprehensive overview** of different **Business Anal
 **Learning Resources:**  
 - [Atlassian JIRA Guide](https://www.atlassian.com/software/jira/guides)  
 - [Confluence Documentation](https://www.atlassian.com/software/confluence/guides)  
+- [Lucid Chart YT Playlist](https://www.youtube.com/watch?v=kM1B-jQUeVI&list=PLUoebdZqEHTxx3fS_jyD56QMd4trXZE3D)
 
 ---
 
