@@ -68,7 +68,6 @@ For feedback or collaboration ideas, feel free to reach out on LinkedIn or Insta
 
 ## 🚧 Coming Soon
 
-- Resume & Portfolio Templates  
 - Power BI & Tableau Projects  
 - Python for Data Analysis  
 - ML Roadmaps & Case Studies  
