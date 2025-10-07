@@ -91,23 +91,4 @@ Each section is grouped by topic, followed by complete solutions at the end.
 
 ---
 
-# Solutions
 
-### Step 1 Solutions
-(Include all 10 corresponding code examples)
-
-### Step 2 Solutions
-(Include all 10 corresponding function/code examples)
-
-### Step 3 Solutions
-(Include all 10 file/error handling examples)
-
-### Step 4 Solutions
-(Include all 10 OOP class-based examples)
-
-### Step 5 Solutions
-(Include all 10 algorithmic examples)
-
----
-
-**Note:** Detailed solutions and explanations for each question will be expanded soon.
