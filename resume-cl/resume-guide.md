@@ -6,7 +6,7 @@ A complete guide to building an ATS-friendly, impact-driven resume — especiall
 
 ## 1️⃣ Resume Format
 
-- **Length:** 1 page (2 pages only if you have **5+ years** of experience)
+- **Length:** 1 page (1.5-2 pages only if you have **10+ years** of experience)
 - **File Format:** PDF
 - **Font:** Calibri, Arial, Helvetica, Times New Roman (**Size:** 11–12 pt)
 - **Margins:** 0.5"–1"
