@@ -18,8 +18,8 @@ Without this, even advanced dashboards or ML models won’t make sense.
 - Correlation & Regression: Simple & multiple linear regression
 
 ### Resources
-- YouTube (Codebasics): *Business Math & Statistics Using Excel For Data Analysts and Data Scientists* [![Watch the video](https://www.youtube.com/watch?v=npgbI8KYvN8)
-- YouTube (Krish Naik): *Complete Statistics For Data Science in 6 Hours*  [![Watch the video](https://www.youtube.com/watch?v=LZzq1zSL1bs)
+- YouTube (Codebasics): *Business Math & Statistics Using Excel For Data Analysts and Data Scientists*(https://www.youtube.com/watch?v=npgbI8KYvN8)
+- YouTube (Krish Naik): *Complete Statistics For Data Science in 6 Hours*(https://www.youtube.com/watch?v=LZzq1zSL1bs)
 - Book (Optional): *Practical Statistics for Data Scientists* – Bruce & Gedeck
 
 ---
