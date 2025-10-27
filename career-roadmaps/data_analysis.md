@@ -39,7 +39,7 @@ It helps you think in terms of data cleaning, visualization, and logic building.
 
 ### Resources
 - Codebasics Excel Playlist
-- Detailed Excel Resources - https://github.com/SahilGogna/Study-Resources/new/main/career-roadmaps
+- Detailed Excel Resources - https://github.com/SahilGogna/Study-Resources/blob/main/analysis/excel-roadmap.md
 - Practice Datasets: Kaggle “Superstore Sales”, “Bike Sales”, “HR Analytics”
 
 ---
