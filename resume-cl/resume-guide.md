@@ -204,7 +204,11 @@ Organized and managed 20+ volunteers during live speaker events, improving event
 3. Skills  
 4. Projects  
 5. Experience  
-6. Volunteering / Extracurriculars *(optional)*  
+6. Volunteering / Extracurriculars
+
+> **Why Education Comes First for Co-op / Internship Resumes:**  
+> In Canada, most companies offering **co-op or internship roles** specifically seek **active students** who are currently enrolled in an academic program — often as a mandatory requirement.  
+> Highlighting your **education at the top** immediately shows eligibility and reassures employers that you qualify for such student-based opportunities.
 
 ---
 
