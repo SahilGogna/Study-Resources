@@ -104,9 +104,3 @@ A cover letter **isn’t a repeat of your resume** — it’s your pitch for *wh
 Personalization and storytelling are your biggest advantages.
 
 ---
-
-## 🌟 About MyStrivera
-MyStrivera is a career-growth community helping students, fresh graduates, and job aspirants in IT land their dream roles faster.  
-Through **1:1 mentorship, group sessions, portfolio building, and industry expert talks**, we’ve already helped members secure **full-time offers and internships**.  
-
-💡 Learn more: [mystrivera.com](https://mystrivera.com) | 📲 Join the waitlist for early access & community discounts.
