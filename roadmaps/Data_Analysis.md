@@ -144,7 +144,7 @@ Your portfolio proves that you can do real-world analysis.
 - LinkedIn + GitHub portfolio synced  
 
 ### Resources
-- MyStrivera Resume & Portfolio Module  [https://github.com/SahilGogna/Study-Resources/tree/main/resume-cl]
+- ORU Resume & Portfolio Module  [https://github.com/SahilGogna/Study-Resources/tree/main/resume-cl]
 - Kaggle Project Repository  
 - GitHub: Showcase projects with README.md explaining problem → data → insight → action  
 
@@ -177,8 +177,8 @@ Deliverables:
 
 ---
 
-## 🌟 About MyStrivera
-MyStrivera is a career-growth community helping students, fresh graduates, and job aspirants in IT land their dream roles faster.  
+## 🌟 About ORU
+ORU is a career-growth platform helping students, fresh graduates, and job aspirants in IT land their dream roles faster.  
 Through **1:1 mentorship, group sessions, portfolio building, and industry expert talks**, we’ve already helped members secure **full-time offers and internships**.  
 
-💡 Learn more: [mystrivera.com](https://mystrivera.com) | 📲 Join the waitlist for early access & community discounts.
+💡 Learn more: [joinoru.com](https://joinoru.com) | 📲 Join the waitlist for early access & community discounts.

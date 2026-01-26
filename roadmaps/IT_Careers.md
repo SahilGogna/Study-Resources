@@ -1,16 +1,16 @@
 # 🚀 Launch Your Career in IT (Canada)
 
-A complete beginner-to-pro guide based on the *MyStrivera Success Roadmap* — tailored for fresh graduates, students, career switchers, and newcomers to the IT industry in Canada.
+A complete beginner-to-pro guide based on the *ORU Success Roadmap* — tailored for fresh graduates, students, career switchers, and newcomers to the IT industry in Canada.
 
 ---
 
 ## 📅 Document Overview
-**By:** MyStrivera (Sahil Gogna)  
+**By:** ORU (Sahil Gogna)  
 
 This guide covers:
 - IT career overviews & common myths
 - Profiles you can target (technical & non-technical)
-- MyStrivera’s **8-Module Success Roadmap**
+- ORU’s **8-Module Success Roadmap**
 - Coding vs. No-Coding roles
 - Entry skills to learn
 - Interview processes & expectations
@@ -99,7 +99,7 @@ This guide covers:
 
 ---
 
-## 4️⃣ MyStrivera’s 8-Module Success Roadmap
+## 4️⃣ ORU’s 8-Module Success Roadmap
 
 1. **Mindset Building**  
 2. **Tech Skills**  
@@ -150,7 +150,7 @@ This guide covers:
 
 - **Cloud & DevOps Roadmap:** [View](https://docs.google.com/document/d/1e-GkTI36I1Cx4Lrw2A_2i2-iEu65R2Tei0amKnJ9zb8/edit)  
 - **Cybersecurity Roadmap:** [View](https://docs.google.com/document/d/1e-GkTI36I1Cx4Lrw2A_2i2-iEu65R2Tei0amKnJ9zb8/edit)  
-- Contact: **contact@mystrivera.com**
+- Contact: **contact@joinoru.com**
 
 ---
 
@@ -160,8 +160,8 @@ Stay consistent, apply strategically, keep learning — and remember that **your
 
 ---
 
-## 🌟 About MyStrivera
-MyStrivera is a career-growth community helping students, fresh graduates, and job aspirants in IT land their dream roles faster.  
+## 🌟 About ORU
+ORU is a career-growth platform helping students, fresh graduates, and job aspirants in IT land their dream roles faster.  
 Through **1:1 mentorship, group sessions, portfolio building, and industry expert talks**, we’ve already helped members secure **full-time offers and internships**.  
 
-💡 Learn more: [mystrivera.com](https://mystrivera.com) | 📲 Join the waitlist for early access & community discounts.
+💡 Learn more: [joinoru.com](https://joinoru.com) | 📲 Join the waitlist for early access & community discounts.

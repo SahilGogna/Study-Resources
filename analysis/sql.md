@@ -30,7 +30,7 @@ This repository provides a comprehensive guide to learning SQL — from fundamen
 ## 📂 GitHub Repository
 
 > Access sample questions and a practice dataset here:  
-👉 [github.com/SahilGogna/SQL-MyStrivera](https://github.com/SahilGogna/SQL-MyStrivera)
+👉 [github.com/SahilGogna/SQL-ORU](https://github.com/SahilGogna/SQL-ORU)
 
 ---
 
@@ -138,7 +138,7 @@ Apply your skills to real-world scenarios:
   Learn subqueries, window functions, CTEs, performance tuning
 
 - **For Interviews:**  
-  Focus on solving real SQL problems regularly using platforms like LeetCode, StrataScratch, or this [Practice Repo](https://github.com/SahilGogna/SQL-MyStrivera)
+  Focus on solving real SQL problems regularly using platforms like LeetCode, StrataScratch, or this [Practice Repo](https://github.com/SahilGogna/SQL-ORU)
 
 ---
 
@@ -167,7 +167,7 @@ Explore these curated playlists for every learning level:
 
 ### 🙌 Bonus: Start Practicing Now
 
-Head to the [Practice Repo](https://github.com/SahilGogna/SQL-MyStrivera) and explore:
+Head to the [Practice Repo](https://github.com/SahilGogna/SQL-ORU) and explore:
 
 - A complete retail sales dataset
 - Step-by-step setup instructions
@@ -177,8 +177,8 @@ Head to the [Practice Repo](https://github.com/SahilGogna/SQL-MyStrivera) and ex
 
 ---
 
-## 🌟 About MyStrivera
-MyStrivera is a career-growth community helping students, fresh graduates, and job aspirants in IT land their dream roles faster.  
+## 🌟 About ORU
+ORU is a career-growth platform helping students, fresh graduates, and job aspirants in IT land their dream roles faster.  
 Through **1:1 mentorship, group sessions, portfolio building, and industry expert talks**, we’ve already helped members secure **full-time offers and internships**.  
 
-💡 Learn more: [mystrivera.com](https://mystrivera.com) | 📲 Join the waitlist for early access & community discounts.
+💡 Learn more: [joinoru.com](https://joinoru.com) | 📲 Join the waitlist for early access & community discounts.

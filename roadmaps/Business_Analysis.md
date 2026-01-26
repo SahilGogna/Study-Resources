@@ -89,7 +89,7 @@ This document provides a **comprehensive overview** of different **Business Anal
 - Identify duplicate records or anomalies.  
 
 **Learning Resources:**  
-- [My Git Repo] (https://github.com/SahilGogna/SQL-MyStrivera)
+- [My Git Repo] (https://github.com/SahilGogna/SQL-ORU)
 - [Mode SQL Tutorial](https://mode.com/sql-tutorial/)  
 - [LeetCode SQL Problems](https://leetcode.com/problemset/database/)  
 
@@ -213,8 +213,8 @@ With consistent learning and practice, you can build a strong BA career in Canad
 
 ---
 
-## 🌟 About MyStrivera
-MyStrivera is a career-growth community helping students, fresh graduates, and job aspirants in IT land their dream roles faster.  
+## 🌟 About ORU
+ORU is a career-growth platform helping students, fresh graduates, and job aspirants in IT land their dream roles faster.  
 Through **1:1 mentorship, group sessions, portfolio building, and industry expert talks**, we’ve already helped members secure **full-time offers and internships**.  
 
-💡 Learn more: [mystrivera.com](https://mystrivera.com) | 📲 Join the waitlist for early access & community discounts.
+💡 Learn more: [joinoru.com](https://joinoru.com) | 📲 Join the waitlist for early access & community discounts.

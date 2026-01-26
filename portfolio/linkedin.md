@@ -2,7 +2,7 @@
 
 Welcome! This guide will help you create a **powerful LinkedIn profile** that boosts your personal brand, attracts recruiters, and builds meaningful professional connections.
 
-Built with love by **MyStrivera**  
+Built with love by **ORU**  
 Presented by **Sahil Gogna**
 
 ---
@@ -137,7 +137,7 @@ There are 2 modes:
 ## 🙌 Let's Connect!
 
 Want help building your LinkedIn?  
-DM or tag us at [MyStrivera](https://www.instagram.com/mystrivera) or [Sahil Gogna](https://www.linkedin.com/in/gognasahil/) for a profile review or feature suggestion.
+DM or tag us at [ORU](https://www.instagram.com/joinoru) or [Sahil Gogna](https://www.linkedin.com/in/gognasahil/) for a profile review or feature suggestion.
 
 ---
 

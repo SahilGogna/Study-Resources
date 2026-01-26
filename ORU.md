@@ -1,7 +1,7 @@
-## 🌟 Join the MyStrivera Community
+## 🌟 Join the ORU Community
 
-**What is MyStrivera?**  
-MyStrivera is a career-growth community built for students, fresh graduates, and job aspirants in IT.  
+**What is ORU?**  
+ORU is a career-growth platform built for students, fresh graduates, and job aspirants in IT.  
 We exist to solve one big problem: most people struggle not because they lack talent, but because they lack **direction, clarity, and a support network**.
 
 ---
@@ -36,10 +36,10 @@ We exist to solve one big problem: most people struggle not because they lack ta
 ---
 
 ### 📌 Be Part of the Movement
-Getting a job is more than sending resumes — it’s about **strategy, skills, and support**.  
-With MyStrivera, you’ll never walk the journey alone.
+Getting a job is more than sending resumes — it's about **strategy, skills, and support**.  
+With ORU, you'll never walk the journey alone.
 
-📲 **Join the Waitlist** – Scan the QR code below or visit: [mystrivera.com](https://mystrivera.com)
+📲 **Join the Waitlist** – Scan the QR code below or visit: [joinoru.com](https://joinoru.com)
 
 ![QR Code](qr-code.png)  <!-- Replace with actual QR code image path -->
 

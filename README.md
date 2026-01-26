@@ -1,79 +1,95 @@
-# 📚 Study Resources by Sahil Gogna
+# 📚 Study Resources - Repository Overview
 
-Welcome to the **Study Resources** repository — a growing collection of curated learning roadmaps and practical guides to help you level up in tech and data roles. Whether you're a student, job aspirant, or working professional, this repo offers beginner-to-intermediate level study paths that are clear, actionable, and practice-focused.
-
-Feel free to ⭐ the repo if you find this helpful. Happy learning!
----
-## 🗂 What's Inside?
-
-This repository currently includes:
-
-- [`sql.md`](./sql.md)  
-  A comprehensive SQL guide with fundamentals, practice questions, dataset setup, and query solutions.
-
-- [`excel-roadmap.md`](./excel-roadmap.md)  
-  Learn how to use Excel for real business scenarios — from formulas to dashboards and analytics workflows.
-
-- [`data-visualization.md`](./data-visualization.md)  
-  A beginner’s guide to data visualization — tools, best practices, datasets, and portfolio-building tips.
-
-- [`how-to-launch-a-career-in-IT.md`](./how-to-launch-a-career-in-IT.md)  
-  A roadmap for breaking into IT, exploring career paths, required skills, and entry strategies.
-
-- [`job-application-process-guide.md`](./job-application-process-guide.md)  
-  Step-by-step instructions to master the job application process and stand out to recruiters.
-
-- [`resume-guide.md`](./resume-guide.md)  
-  Proven tips and examples to craft a professional, job-winning resume.
-
-- [`cover-letter.md`](./cover-letter.md)  
-  Strategies and templates for writing impactful cover letters.
-
-- [`linkedin.md`](./linkedin.md)  
-  A guide to optimizing your LinkedIn profile for visibility and networking.
-
-- [`MyStrivera.md`](./MyStrivera.md)  
-  Details about MyStrivera —Canada's strongest tech community.
-
+A curated collection of career resources for IT job seekers, students, and professionals.
 
 ---
 
-## 💡 Who Should Use This?
+## 📁 Folder Structure
 
-- Students learning data skills
-- Job aspirants preparing for interviews
-- Professionals looking to upskill
-- Self-taught learners and bootcamp grads
-
-If you're tired of scattered resources and just want **structured, step-by-step learning**, this repo is for you.
-
----
-
-## 📬 Stay Connected
-
-Feel free to connect or follow me on the platforms below — I regularly share content, job prep tips, and community updates:
-
-- 🔗 [LinkedIn](https://www.linkedin.com/in/gognasahil/)
-- 📷 [Instagram](https://www.instagram.com/sahilgogna_/)
-- ▶️ [YouTube](https://www.youtube.com/@GognaSahil)
+```
+Study-Resources/
+├── ai/                    → AI tools & prompts for job hunting
+├── analysis/              → Data & business analysis learning materials
+├── certifications/        → Certification guides & roadmaps
+├── interview-process/     → Interview prep & application guides
+├── portfolio/             → Personal branding & LinkedIn tips
+├── project-ideas/         → Hands-on project templates
+├── python/                → Python learning roadmaps & exercises
+├── resume-cl/             → Resume & cover letter best practices
+├── roadmaps/              → Career path guides for various IT roles
+└── startups/              → Guide for landing startup jobs
+```
 
 ---
 
-## ⭐️ Contribute or Share
+## 📄 File Descriptions
 
-If you find this helpful, give it a ⭐️ and share it with a friend who’s also learning!  
-For feedback or collaboration ideas, feel free to reach out on LinkedIn or Instagram.
+### `/ai`
+| File | Description |
+|------|-------------|
+| `AI-job-automation-tools.md` | Tools to automate repetitive job hunt tasks |
+| `AI-job-matching-tools.md` | AI platforms that match you with relevant jobs |
+| `AI-resume-tools.md` | AI-powered resume builders & optimizers |
+| `JobSeeker_AI_Prompts.md` | ChatGPT prompts for cover letters, prep & more |
+
+### `/analysis`
+| File | Description |
+|------|-------------|
+| `data-visualization.md` | Best practices for charts, dashboards & storytelling |
+| `excel-roadmap.md` | Step-by-step Excel skills progression |
+| `sql.md` | SQL fundamentals & interview prep concepts |
+| `sql-75-questions.md` | 75 SQL practice problems with solutions |
+
+### `/certifications`
+| File | Description |
+|------|-------------|
+| `google-certs.md` | Overview of Google Career Certificates |
+
+### `/interview-process`
+| File | Description |
+|------|-------------|
+| `BA_Interview_Process_Guide.md` | Business Analyst interview walkthrough |
+| `job-application-process-guide.md` | End-to-end job application strategy |
+
+### `/portfolio`
+| File | Description |
+|------|-------------|
+| `linkedin.md` | Tips to optimize your LinkedIn profile |
+
+### `/project-ideas`
+| File | Description |
+|------|-------------|
+| `expense-tracker.md` | Full-stack project idea with requirements |
+
+### `/python`
+| File | Description |
+|------|-------------|
+| `Python_Foundations_Checklist.md` | Checklist to track Python fundamentals |
+| `Python_Roadmap.md` | Structured learning path for Python |
+| `python-50-question-easy.md` | 50 beginner Python practice problems |
+
+### `/resume-cl`
+| File | Description |
+|------|-------------|
+| `The Ultimate Resume Cheat Sheet.md` | Quick-reference resume dos & don'ts |
+| `cover-letter.md` | Cover letter templates & writing guide |
+| `resume-guide.md` | Comprehensive ATS-friendly resume guide |
+
+### `/roadmaps`
+| File | Description |
+|------|-------------|
+| `30-days-roadmap.md` | 30-day intensive job search plan |
+| `Business_Analysis.md` | BA career path & skill requirements |
+| `Data_Analysis.md` | Data Analyst role breakdown |
+| `IT_Careers.md` | Overview of various IT career options |
+| `Product_Management.md` | PM role guide with frameworks |
+| `Tech_Profiles.md` | Comparison of popular tech roles |
+
+### `/startups`
+| File | Description |
+|------|-------------|
+| `startup-job-hunt-guide.md` | How to break into startup jobs |
 
 ---
 
-## 🚧 Coming Soon
-
-- Power BI & Tableau Projects  
-- Python for Data Analysis  
-- ML Roadmaps & Case Studies  
-- Job Prep Worksheets
-
----
-
-**Built with ❤️ by Sahil Gogna**  
-Helping you move from learning to landing the role.
+> 🌟 **Part of the ORU initiative** — helping job seekers find direction, build skills, and land offers.

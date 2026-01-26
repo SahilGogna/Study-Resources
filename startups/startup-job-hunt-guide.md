@@ -111,6 +111,6 @@ What I hope to achieve from this email:
 
 ---
 
-🔗 [mystrivera.com](https://mystrivera.com)
+🔗 [joinoru.com](https://joinoru.com)
 
 ---
