@@ -212,6 +212,192 @@ Organized and managed 20+ volunteers during live speaker events, improving event
 
 ---
 
+## 48-Point ATS Resume Checklist
+
+*Your Complete Guide to Beating Applicant Tracking Systems*
+
+### File Format & Setup
+
+- **1. Save as .docx first, then export to PDF**  
+  *Why: ATS reads Word files best. Create in Word, then save as PDF for final submission.*
+
+- **2. Keep file size under 1MB**  
+  *Why: Large files may fail to upload or process properly.*
+
+- **3. Name file professionally: "FirstName_LastName_Resume.pdf"**  
+  *Why: Helps recruiters find your resume easily when downloaded.*
+
+- **4. Use only one column layout**  
+  *Why: Multiple columns break ATS parsing—it reads left to right, top to bottom.*
+
+---
+
+### Fonts & Formatting
+
+- **5. Use standard fonts: Arial, Calibri, Times New Roman, or Georgia**  
+  *Why: Fancy fonts can't be read by ATS and show up as symbols.*
+
+- **6. Font size between 10-12pt for body text**  
+  *Why: Too small = hard to read. Too large = looks unprofessional.*
+
+- **7. Use 14-16pt for your name only**  
+  *Why: Makes your name stand out without confusing the ATS.*
+
+- **8. Avoid italics, underlining, and excessive bold**  
+  *Why: ATS may misread styled text or skip it entirely.*
+
+- **9. Use standard bullet points (• or -)**  
+  *Why: Special characters like ✓ ★ ➤ confuse ATS parsing.*
+
+- **10. No headers or footers**  
+  *Why: ATS skips header/footer content—your contact info will disappear.*
+
+- **11. No text boxes**  
+  *Why: ATS can't read text inside boxes and will skip that content.*
+
+- **12. No tables**  
+  *Why: Tables break ATS parsing—information gets jumbled or lost.*
+
+- **13. No images, logos, or photos**  
+  *Why: ATS is text-only and skips all visual elements completely.*
+
+- **14. No graphics, charts, or infographics**  
+  *Why: Same as images—ATS cannot process visual information.*
+
+---
+
+### Contact Information
+
+- **15. Put contact info at the top of page (not in header)**  
+  *Why: ATS skips headers, so your contact details must be in the main document.*
+
+- **16. Include: Full name, phone, email, LinkedIn, location**  
+  *Why: ATS looks for these specific fields to categorize your application.*
+
+- **17. Use a professional email address**  
+  *Why: Emails like "partyguy123@gmail.com" get filtered out by ATS and recruiters.*
+
+- **18. LinkedIn URL should be custom (linkedin.com/in/yourname)**  
+  *Why: Clean URLs are ATS-friendly and look more professional.*
+
+- **19. Don't include full address (just "Toronto, ON")**  
+  *Why: Privacy + saves space. City and province are sufficient for ATS.*
+
+---
+
+### Section Headings
+
+- **20. Use standard section titles: "Work Experience," "Education," "Skills"**  
+  *Why: ATS looks for these exact terms to categorize your information.*
+
+- **21. Avoid creative headings like "Where I've Been"**  
+  *Why: ATS won't recognize these and may miss entire sections.*
+
+- **22. Use "Work Experience" not "Experience" alone**  
+  *Why: "Work Experience" is the standard term ATS systems search for.*
+
+- **23. Include: Contact, Summary, Experience, Education, Skills**  
+  *Why: These are the core sections every ATS expects to find.*
+
+- **24. List sections in standard order**  
+  *Why: Contact → Summary → Experience → Education → Skills*
+
+---
+
+### Work Experience
+
+- **25. List jobs in reverse chronological order**  
+  *Why: ATS and recruiters expect to see your current/recent role first.*
+
+- **26. Include: Job title, Company, Location, Dates**  
+  *Why: ATS extracts these fields to build your profile—missing any creates gaps.*
+
+- **27. Spell out months: "January 2023" not "Jan 2023"**  
+  *Why: Different ATS systems parse dates differently—spelled out is safest.*
+
+- **28. Use "Present" for current roles**  
+  *Why: "Present" is the standard term ATS recognizes for ongoing employment.*
+
+- **29. Start bullets with action verbs**  
+  *Why: Action verbs are keywords ATS scans for and show impact.*
+
+- **30. Include numbers and metrics**  
+  *Why: Metrics are often keywords and prove your impact quantifiably.*
+
+- **31. Mirror keywords from job description**  
+  *Why: ATS ranks resumes by keyword match percentage—use their language.*
+
+- **32. Spell out acronyms: "Search Engine Optimization (SEO)"**  
+  *Why: ATS might search for either the full term or acronym—include both.*
+
+- **33. Don't use "I," "me," "my"**  
+  *Why: "Led team" not "I led team"—it's cleaner and more professional.*
+
+- **34. Keep bullets to 1-2 lines maximum**  
+  *Why: Concise bullets are easier for both ATS and humans to scan.*
+
+---
+
+### Education
+
+- **35. List degree, school name, location, graduation date**  
+  *Why: ATS extracts these specific fields for education verification.*
+
+- **36. Spell out your degree fully**  
+  *Why: "Bachelor of Science in Computer Science" not "BS CS"—ATS searches for full names.*
+
+- **37. Include GPA only if above 3.5**  
+  *Why: Low GPA hurts you, high GPA helps—leave it out if mediocre.*
+
+- **38. Include certifications**  
+  *Why: Certifications are powerful keywords that boost your ATS score.*
+
+---
+
+### Skills Section
+
+- **39. Create a "Skills" or "Technical Skills" section**  
+  *Why: ATS specifically scans this section for required technical keywords.*
+
+- **40. List skills exactly as in job posting**  
+  *Why: If they say "JavaScript" don't write "JS"—exact match = higher score.*
+
+- **41. Separate skills with commas, not slashes**  
+  *Why: "Python/SQL/AWS" may be read as one skill—use "Python, SQL, AWS" instead.*
+
+- **42. Include hard and soft skills**  
+  *Why: Most ATS systems scan for both technical abilities and soft skills.*
+
+- **43. Don't rate skills with bars or percentages**  
+  *Why: ATS can't read visual skill ratings—just list the skills as text.*
+
+---
+
+### Final Checks
+
+- **44. Remove special characters: @, #, &, %, $**  
+  *Why: These can break ATS parsing and cause errors in text extraction.*
+
+- **45. Run a spell check**  
+  *Why: Typos reduce your keyword match and look unprofessional.*
+
+- **46. Use keywords 5-7 times throughout**  
+  *Why: Keyword frequency matters—but don't stuff unnaturally or you'll get flagged.*
+
+- **47. Keep to 1 page (<5 years) or 2 pages max**  
+  *Why: ATS has no preference, but recruiters do—respect their time.*
+
+- **48. Test through a free ATS scanner**  
+  *Why: Tools like Jobscan show exactly how ATS will read your resume.*
+
+---
+
+### Bonus Tip
+
+> After optimizing for ATS, always have a **human-friendly version** ready. Once you pass ATS, a real person reads it—make sure it's compelling for them too!
+
+---
+
 ## 🏁 Final Note
 Your resume won’t get you the job — it will get you the **interview**.  
 Keep it **clear, relevant, and specific**. Show **value**, not just tasks.
