@@ -31,6 +31,7 @@ Study-Resources/
 | `AI-job-matching-tools.md` | AI platforms that match you with relevant jobs |
 | `AI-resume-tools.md` | AI-powered resume builders & optimizers |
 | `JobSeeker_AI_Prompts.md` | ChatGPT prompts for cover letters, prep & more |
+| `Tech Job Canada - Prompt Library.md` | AI prompts for landing high-paying tech jobs in Canada (5 phases: planning, resume, networking, interviews, negotiation) |
 
 ### `/analysis`
 | File | Description |
@@ -55,6 +56,7 @@ Study-Resources/
 | File | Description |
 |------|-------------|
 | `linkedin.md` | Tips to optimize your LinkedIn profile |
+| `LinkedIn Profile Optimization Toolkit.md` | Comprehensive LinkedIn profile guide with section-by-section optimization, AI summary creation, and hidden tricks |
 
 ### `/project-ideas`
 | File | Description |
