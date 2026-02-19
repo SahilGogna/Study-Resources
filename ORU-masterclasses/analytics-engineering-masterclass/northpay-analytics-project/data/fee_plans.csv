@@ -1,0 +1,5 @@
+fee_plan_id,plan_name,base_rate_pct,fixed_fee_cad,fx_markup_pct,monthly_cap_cad
+FP001,Standard,2.9,0.3,1.5,
+FP002,Premium,1.9,0.2,0.8,
+FP003,Enterprise,1.2,0.1,0.5,5000.0
+FP004,Startup,3.5,0.25,2.0,
