@@ -1,3 +1,5 @@
+# Step 3 — Setup Guide
+
 # Setup Guide
 
 ## Option A — DuckDB (Recommended)
@@ -65,7 +67,7 @@ SELECT * FROM read_csv('data/transactions.csv',
     columns={'amount': 'DOUBLE', 'created_at': 'TIMESTAMP'});
 ```
 
-**Recommended GUI:** [DBeaver](https://dbeaver.io) — free, connects to DuckDB, has a schema browser.
+**Recommended GUI:** DBeaver (https://dbeaver.io) — free, connects to DuckDB, has a schema browser.
 
 ---
 
@@ -73,7 +75,7 @@ SELECT * FROM read_csv('data/transactions.csv',
 
 ### Setup
 
-1. Create a GCP project at [console.cloud.google.com](https://console.cloud.google.com)
+1. Create a GCP project at https://console.cloud.google.com
 2. Enable the BigQuery API
 3. Create datasets:
 
@@ -105,7 +107,7 @@ dbt run && dbt test
 
 ## Option C — Snowflake Trial
 
-1. Sign up at [signup.snowflake.com](https://signup.snowflake.com) — 30-day free trial, no credit card
+1. Sign up at https://signup.snowflake.com — 30-day free trial, no credit card
 2. Create warehouse and schemas:
 
 ```sql
@@ -124,7 +126,7 @@ CREATE SCHEMA northpay.marts;
 
 | Tool | Purpose | Link |
 |------|---------|-------|
-| DBeaver | Free SQL GUI | [dbeaver.io](https://dbeaver.io) |
-| dbdiagram.io | Draw your ERD | [dbdiagram.io](https://dbdiagram.io) |
-| SQLFluff | SQL linter | [sqlfluff.com](https://sqlfluff.com) |
-| dbt Core | SQL transformation framework | [docs.getdbt.com](https://docs.getdbt.com) |
+| DBeaver | Free SQL GUI | https://dbeaver.io |
+| dbdiagram.io | Draw your ERD | https://dbdiagram.io |
+| SQLFluff | SQL linter | https://sqlfluff.com |
+| dbt Core | SQL transformation framework | https://docs.getdbt.com |

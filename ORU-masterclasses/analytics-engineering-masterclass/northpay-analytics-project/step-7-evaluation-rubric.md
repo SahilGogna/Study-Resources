@@ -1,3 +1,5 @@
+# Step 7 — Evaluation Rubric
+
 # Evaluation Rubric
 
 **Total: 100 points**

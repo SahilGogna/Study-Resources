@@ -1,3 +1,5 @@
+# Step 2 — Project Brief
+
 # Project Brief — NorthPay Analytics Engineering
 
 ## Background
@@ -78,7 +80,7 @@ You must implement all 6 of these, queryable from your mart tables:
 | **Authorization Rate** | Completed ÷ (Completed + Failed) transactions |
 | **Take Rate** | Total fees collected ÷ GMV |
 
-Document each metric's definition and the model it lives in. Use `templates/metrics_template.md`.
+Document each metric's definition and the model it lives in. Use Step 5 — metrics-template.md.
 
 ### 5. Tests
 
@@ -109,7 +111,7 @@ pip install duckdb
 duckdb northpay.db
 -- Then: CREATE TABLE raw_transactions AS SELECT * FROM read_csv_auto('data/transactions.csv');
 ```
-See `docs/setup_guide.md` for complete instructions.
+See Step 3 — setup-guide.md for complete instructions.
 
 **Option B — BigQuery sandbox**
 **Option C — Snowflake 30-day free trial**
@@ -119,7 +121,7 @@ See `docs/setup_guide.md` for complete instructions.
 ## Submission
 
 1. Create a **public** GitHub repo named `northpay-analytics` (or similar)
-2. Copy `templates/README_template.md` to your repo root as `README.md` and fill it in
+2. Copy Step 6 — readme-template.md to your repo root as `README.md` and fill it in
 3. Ensure your repo runs from a clean clone with your setup instructions
 4. Submit your GitHub URL via the course portal
 
@@ -127,7 +129,7 @@ See `docs/setup_guide.md` for complete instructions.
 
 ## Grading
 
-See `docs/evaluation_rubric.md` for full scoring breakdown.
+See Step 7 — evaluation-rubric.md for full scoring breakdown.
 
 | Category | Weight |
 |----------|--------|

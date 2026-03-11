@@ -1,3 +1,5 @@
+# Step 8 — FAQ
+
 # FAQ
 
 ---
@@ -73,7 +75,7 @@ WHERE r.refund_amount_cad > t.amount_cad;
 ```
 
 **How many tests is enough?**
-The minimum is 6 (listed in the brief). Strong submissions have 10–15, mixing structural and business logic tests.
+The minimum is 6 (listed in Step 2 — project-brief.md). Strong submissions have 10–15, mixing structural and business logic tests.
 
 ---
 
@@ -86,4 +88,4 @@ Yes. Reviewers need to access it without credentials. Don't commit API keys or l
 Yes — include them in `data/` so anyone can clone and run immediately.
 
 **Can I add extra features?**
-Absolutely. Bonus ideas: dbt project, GitHub Actions CI, a Streamlit dashboard, cohort analysis. These aren't required but demonstrate extra initiative.
+Absolutely. Bonus ideas: dbt project, GitHub Actions CI, a Streamlit dashboard, cohort analysis. These aren't required but demonstrate extra initiative. See Step 7 — evaluation-rubric.md for bonus points breakdown.
