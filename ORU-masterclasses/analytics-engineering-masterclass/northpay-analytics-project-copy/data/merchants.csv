@@ -1,0 +1,11 @@
+merchant_id,merchant_name,category,fee_plan_id,status,onboarded_date,country,province
+M001,Maple Leaf Eats,Food & Beverage,FP001,active,2022-03-15,Canada,ON
+M002,TechNorth Solutions,Software,FP002,active,2021-07-22,Canada,ON
+M003,Arctic Apparel,Retail,FP001,active,2023-01-10,Canada,AB
+M004,Voyageur Travel,Travel,FP003,active,2020-11-05,Canada,BC
+M005,Aurora Beauty,Health & Beauty,FP004,active,2023-06-01,Canada,BC
+M006,Caribou Outdoors,Sporting Goods,FP002,active,2022-09-18,Canada,BC
+M007,Tundra Electronics,Electronics,FP003,suspended,2021-04-30,Canada,ON
+M008,Borealis Books,Education,FP001,active,2023-11-20,Canada,NS
+M009,Northern Lights Gym,Fitness,FP004,active,2024-02-14,Canada,ON
+M010,Rideau Gourmet,Food & Beverage,FP002,active,2022-08-07,Canada,NS

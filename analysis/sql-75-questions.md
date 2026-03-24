@@ -4,6 +4,90 @@
 
 ---
 
+## 🗂️ Dataset Quick Reference
+
+> All datasets are in `sql-75-datasets.sql`. Load that file into PostgreSQL before practising.
+
+| Q# | Tables to Use |
+|----|---------------|
+| Q1 | `customers`, `orders` |
+| Q2 | `customers`, `orders` |
+| Q3 | `customers`, `orders`, `products` |
+| Q4 | `products`, `orders` |
+| Q5 | `customers`, `orders` |
+| Q6 | `employees` |
+| Q7 | `transactions` (self-join) |
+| Q8 | `system1`, `system2` |
+| Q9 | `products`, `colors` |
+| Q10 | `customers`, `orders` |
+| Q11 | `orders` |
+| Q12 | `order_items` |
+| Q13 | `orders` |
+| Q14 | `products` |
+| Q15 | `orders` |
+| Q16 | `orders` |
+| Q17 | `products` |
+| Q18 | `orders` |
+| Q19 | `products` |
+| Q20 | `transactions` |
+| Q21 | `employees` ⚠️ use `name` instead of `employee_name` |
+| Q22 | `monthly_sales` ⚠️ use `ORDER BY month_num` instead of `ORDER BY month` |
+| Q23 | `stock_prices` |
+| Q24 | `products` |
+| Q25 | `orders` |
+| Q26 | `employees` |
+| Q27 | `customer_totals` |
+| Q28 | `stock_prices` |
+| Q29 | `products` |
+| Q30 | `customers`, `orders` |
+| Q31 | `employees` |
+| Q32 | `customers`, `orders` |
+| Q33 | `orders`, `customers` ⚠️ change `HAVING SUM > 5000` → `> 1000` |
+| Q34 | `orders` |
+| Q35 | `employees` |
+| Q36 | `trades` |
+| Q37 | `orders` |
+| Q38 | `orders` |
+| Q39 | `transactions` |
+| Q40 | `subscriptions` |
+| Q41 | `customers` |
+| Q42 | `orders` |
+| Q43 | `orders` |
+| Q44 | `products` |
+| Q45 | `customers` |
+| Q46 | `orders` |
+| Q47 | `orders` |
+| Q48 | `customer_summary` |
+| Q49 | `monthly_sales` |
+| Q50 | `accounts` |
+| Q51 | `customers` |
+| Q52 | `products` |
+| Q53 | `customers` |
+| Q54 | `customers` |
+| Q55 | `customers` |
+| Q56 | `customers` |
+| Q57 | `customers` |
+| Q58 | `orders` |
+| Q59 | `transactions` |
+| Q60 | `orders` |
+| Q61 | `orders` |
+| Q62 | `products` |
+| Q63 | `orders` |
+| Q64 | `orders` ⚠️ change `HAVING SUM > 10000` → `> 500` |
+| Q65 | `order_items` ⚠️ change `HAVING COUNT(*) > 100` → `> 2` |
+| Q66 | `orders` |
+| Q67 | `employees` |
+| Q68 | `employees` |
+| Q69 | `customers` |
+| Q70 | `employees` ⚠️ change `WHERE employee_id = 101` → `= 2` |
+| Q71 | `transactions` |
+| Q72 | `product_versions` ⚠️ use `product_versions` instead of `products` |
+| Q73 | `orders` |
+| Q74 | `sales` |
+| Q75 | `employees` ⚠️ change `WHERE e1.employee_id = 1001` → `= 9` |
+
+---
+
 ## 📊 PATTERN 1: JOINs (Questions 1-10)
 
 ### Beginner Level
