@@ -53,6 +53,7 @@ Study-Resources/
 | File | Description |
 |------|-------------|
 | `google-certs.md` | Overview of 10 Google Career Certificates with salary ranges, completion times, and 150+ hiring partners |
+| `Free Certifications Canada.md` | Tiered guide to free/low-cost certifications for the Canadian job market — covers Google, AWS, Azure, IBM, CompTIA, Power BI, and more with cost breakdowns and role relevance |
 
 ### `/interview-process`
 | File | Description |
