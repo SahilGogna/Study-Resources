@@ -402,4 +402,13 @@ Organized and managed 20+ volunteers during live speaker events, improving event
 Your resume won’t get you the job — it will get you the **interview**.  
 Keep it **clear, relevant, and specific**. Show **value**, not just tasks.
 
+
 ---
+
+### Want to Build Real Analytics Projects?
+
+ORU's **Hands-On Data Analytics** course teaches you to think like a practitioner and execute like one — through realistic business problems across insurance, banking, fintech, and ecommerce. Tools covered include Python, SQL, BigQuery, dbt Core, Tableau, Power BI, Streamlit, and Vanna AI.
+
+Use code **ORU10** for 10% off → [Enroll Now](https://joinoru.com/course/hands-on-data-analytics:-learn-by-building-industry-projects)
+
+*For mentorship, live sessions, and community support: [joinoru.com](https://joinoru.com)*

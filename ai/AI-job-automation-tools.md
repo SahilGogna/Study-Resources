@@ -195,3 +195,13 @@ For the most current features, pricing, and capabilities, visit each tool's webs
 - Consider using ATS optimization tools alongside automation platforms
 - Track all applications in a personal spreadsheet as backup
 - Set calendar reminders to review automated activity weekly
+
+---
+
+### Want to Build Real Analytics Projects?
+
+ORU's **Hands-On Data Analytics** course teaches you to think like a practitioner and execute like one — through realistic business problems across insurance, banking, fintech, and ecommerce. Tools covered include Python, SQL, BigQuery, dbt Core, Tableau, Power BI, Streamlit, and Vanna AI.
+
+Use code **ORU10** for 10% off → [Enroll Now](https://joinoru.com/course/hands-on-data-analytics:-learn-by-building-industry-projects)
+
+*For mentorship, live sessions, and community support: [joinoru.com](https://joinoru.com)*

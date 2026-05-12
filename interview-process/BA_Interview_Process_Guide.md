@@ -192,12 +192,14 @@ Evaluate your **soft skills** – communication, negotiation, conflict resolutio
 - Expect 4–5 rounds; tailor prep to **role type** (Functional, BI, BSA).  
 - Practice **10+ questions per round** (above).  
 - Solve at least **1–2 case studies** end‑to‑end.  
-- Balance **technical prep** (SQL/BI/Systems) with **soft skills** (communication).  
+- Balance **technical prep** (SQL/BI/Systems) with **soft skills** (communication).
 
 ---
 
-## 🌟 About ORU
-ORU is a career-growth platform helping students, fresh graduates, and job aspirants in IT land their dream roles faster.  
-Through **1:1 mentorship, group sessions, portfolio building, and industry expert talks**, we’ve already helped members secure **full-time offers and internships**.  
+### Want to Build Real Analytics Projects?
 
-💡 Learn more: [joinoru.com](https://joinoru.com) | 📲 Join the waitlist for early access & community discounts.
+ORU's **Hands-On Data Analytics** course teaches you to think like a practitioner and execute like one — through realistic business problems across insurance, banking, fintech, and ecommerce. Tools covered include Python, SQL, BigQuery, dbt Core, Tableau, Power BI, Streamlit, and Vanna AI.
+
+Use code **ORU10** for 10% off → [Enroll Now](https://joinoru.com/course/hands-on-data-analytics:-learn-by-building-industry-projects)
+
+*For mentorship, live sessions, and community support: [joinoru.com](https://joinoru.com)*

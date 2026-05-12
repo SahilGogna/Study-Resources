@@ -476,3 +476,13 @@ Help me convert this into a learning opportunity:
 7. How to stay on their radar (without being annoying) – ideas for follow-up in 6-12 months
 
 Format: Reflection guide + follow-up email template + lessons learned + next steps.
+
+---
+
+### Want to Build Real Analytics Projects?
+
+ORU's **Hands-On Data Analytics** course teaches you to think like a practitioner and execute like one — through realistic business problems across insurance, banking, fintech, and ecommerce. Tools covered include Python, SQL, BigQuery, dbt Core, Tableau, Power BI, Streamlit, and Vanna AI.
+
+Use code **ORU10** for 10% off → [Enroll Now](https://joinoru.com/course/hands-on-data-analytics:-learn-by-building-industry-projects)
+
+*For mentorship, live sessions, and community support: [joinoru.com](https://joinoru.com)*
