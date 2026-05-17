@@ -31,6 +31,7 @@ Telus Digital • Rogers • Bell
 **Tools:**
 - Jobscan: https://www.jobscan.co/
 - LinkedIn Profile Optimization (built-in)
+- Hanzilla Jobs: https://jobs.hanzilla.co/internships/ — free daily-updated Canadian internships/co-ops, new-grad, junior, and entry-level roles across tech, data, finance, engineering, business, and sciences.
 
 ---
 

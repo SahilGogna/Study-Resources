@@ -36,6 +36,7 @@ Study-Resources/
 | `AI-resume-tools.md` | AI-powered resume builders & ATS optimizers (Rezi, Teal, Jobscan) |
 | `JobSeeker_AI_Prompts.md` | ChatGPT/Claude prompts for cold emails, LinkedIn outreach & resume analysis |
 | `Tech Job Canada - Prompt Library.md` | AI prompts for landing high-paying tech jobs in Canada (5 phases: planning, resume, networking, interviews, negotiation) |
+| `roadmaps/30-days-roadmap.md` | 30-day Canada tech/data job-search plan, now including a free Canadian student internship/new-grad job board resource. |
 | `open-claw-setup.md` | Step-by-step setup guide for OpenClaw AI chat tool via Telegram bot and Docker |
 
 ### `/analysis`
