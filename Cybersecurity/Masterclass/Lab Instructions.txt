@@ -1,0 +1,7 @@
+Instead of listing the lab setup instructions directly, we would like you to use AI to generate the instruction set.
+
+You can use the below mentioned prompt on ChatGPT to generate detailed instructions.
+
+Prompt - Give me detailed instructions on how I can set up a domain controller using windows server and join two windows 11 machines to that domain along with creating local admin accounts on each windows 11 machine and domain users for each of those machine. I am going to use VMware workstation pro and image files to perform this lab
+
+It is recommneded to login to ChatGPT while running this prompt so you can go back and ask it additional questions in case you are facing any issues and need to perform troubleshooting.
