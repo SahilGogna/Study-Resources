@@ -4,6 +4,12 @@ A curated collection of materials from the Cybersecurity Masterclass — coverin
 
 ---
 
+## 👤 Credits
+
+These resources were created by **[Nidhi P. Chikhalia](https://www.linkedin.com/in/nidhip-chikhalia/)** as part of the **ORU Cybersecurity Masterclass**. All credit for the content, curriculum design, and materials belongs to him.
+
+---
+
 ## 📁 Folder Contents
 
 | File | Type | Description |
