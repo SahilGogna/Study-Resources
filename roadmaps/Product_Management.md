@@ -6,13 +6,73 @@ Average PM Salary: $148K | 6,000+ Open Roles | Hiring Up 53% Since 2023
 
 ---
 
+## Why the 2023 Roadmap Does Not Work Anymore
+
+Product management has gone through a real shift, not a cosmetic one. Three things changed:
+
+1. **AI fluency moved from nice-to-have to baseline expectation.** Hiring managers now actively screen for it.
+2. **Portfolio and track record matter more than certifications.** Research on PMs hired at companies like Meta, Google, and Amazon shows only a small fraction were hired straight in with no prior experience — everyone else moved in from an adjacent role or transferred internally.
+3. **The skills employers screen for shifted toward AI-powered feature design.** Most product teams are now shipping AI features like copilots, recommendations, and automation tools.
+
+This roadmap is built around what is actually true in 2026, not what generic career blogs repeat from a few years ago.
+
+---
+
+## The Skill Triangle
+
+Every PM role sits at the intersection of three skill areas. You do not need to be an expert in all three starting out, but you need enough in each to function.
+
+**User Research.** Talking to real users, reading reviews, running usability tests, and turning what you hear into a clear problem statement.
+
+**Business Thinking.** Understanding revenue models, pricing, market segmentation, and how a feature decision connects to a business outcome — not just a user want.
+
+**Technical Fluency.** You do not need to write code. You need to understand APIs, technical constraints, and be able to have an informed conversation with engineers without slowing them down or getting talked over.
+
+Most people are naturally strong in one of these three coming from their current role:
+- **Analysts and researchers** usually start strong in user research.
+- **Engineers and technical folks** usually start strong in the technical corner.
+- **Marketing, consulting, and sales backgrounds** usually start strong in business thinking.
+
+Your job over the 90 days is to build up the other two.
+
+---
+
 ## MONTH 1: FOUNDATIONS (Weeks 1-4)
 
 ### Week 1: Learn Core Frameworks
 
-**5 Essential PM Frameworks:**
+You do not need to memorize every framework that exists. Start with these — they cover prioritization, user delight, goal-setting, and product design thinking.
 
-1. **CIRCLES Method** (Product Design Questions)
+**Essential PM Frameworks:**
+
+1. **RICE Prioritization**
+   - Reach: How many users affected
+   - Impact: How much value created
+   - Confidence: How certain are you
+   - Effort: How much work required
+
+2. **MoSCoW** (Feature Prioritization)
+   - **M**ust have — non-negotiable requirements
+   - **S**hould have — important but not critical
+   - **C**ould have — nice to have if time permits
+   - **W**on't have — explicitly out of scope for now
+
+3. **Kano Model**
+   - Basic needs (must-haves) — expected, absence causes dissatisfaction
+   - Performance needs (more is better)
+   - Delighters — unexpected value that creates loyalty
+
+4. **OKRs and KPIs** (Goal-Setting & Measurement)
+   - **OKRs** (Objectives & Key Results): Set ambitious qualitative goals with measurable outcomes
+   - **KPIs** (Key Performance Indicators): Track ongoing operational health of the product
+   - Know how to connect a feature decision to a business outcome using these
+
+5. **Vision and Roadmap Creation**
+   - Communicate what you are building, when, and why
+   - A roadmap is a communication tool, not a commitment document
+   - Practice writing a 6-month vision + prioritized roadmap for a product you know
+
+6. **CIRCLES Method** (Product Design Questions)
    - Comprehend the situation
    - Identify the customer
    - Report customer needs
@@ -21,32 +81,18 @@ Average PM Salary: $148K | 6,000+ Open Roles | Hiring Up 53% Since 2023
    - Evaluate tradeoffs
    - Summarize recommendation
 
-2. **RICE Prioritization**
-   - Reach: How many users affected
-   - Impact: How much value created
-   - Confidence: How certain are you
-   - Effort: How much work required
+7. **AARRR (Pirate Metrics)**
+   - Acquisition → Activation → Retention → Revenue → Referral
 
-3. **AARRR (Pirate Metrics)**
-   - Acquisition
-   - Activation
-   - Retention
-   - Revenue
-   - Referral
-
-4. **Jobs-to-be-Done (JTBD)**
+8. **Jobs-to-be-Done (JTBD)**
    - Focus on customer goals, not features
    - Understand the "job" customers hire your product for
-
-5. **Kano Model**
-   - Basic needs (must-haves)
-   - Performance needs (more is better)
-   - Delighters (unexpected value)
 
 **Resources:**
 - SVPG Framework Library: svpg.com
 - ProductPlan Framework Guide: productplan.com/glossary
 - Mind the Product Framework Articles: mindtheproduct.com
+- Lenny's Newsletter (lennynewsletter.com) — follow a working PM's day-to-day thinking
 
 ---
 
@@ -73,9 +119,11 @@ Average PM Salary: $148K | 6,000+ Open Roles | Hiring Up 53% Since 2023
 
 ---
 
-### Week 3: Complete Certification Course
+### Week 3: Certification vs. Portfolio — Know What Actually Matters
 
-**Choose ONE to start this week:**
+> **Important context for 2026:** Certifications are not the primary hiring signal in PM hiring — portfolio and track record are. Research on PMs hired at Meta, Google, and Amazon shows only a small fraction were hired with no prior experience. A single strong portfolio project is worth more in interviews than most certificates. Use certifications to fill knowledge gaps, not as a substitute for building.
+
+**If you want a structured course to fill knowledge gaps, choose ONE:**
 
 1. **Product School Micro-Certifications** (FREE)
    - URL: productschool.com/resources/micro-certifications
@@ -307,6 +355,21 @@ Thanks,
 
 ## MONTH 3: LAND THE JOB (Weeks 9-12)
 
+### Choosing the Right Entry Point
+
+Not all paths into PM are equal. Pick the one that matches where you are today — don't force the hardest path when an easier one is available.
+
+| Entry Path | Best For | Notes |
+|---|---|---|
+| **Internal Transfer** | Already at a company with PM roles | Easiest path — you know the business and have existing relationships. Actively signal your interest to your manager. |
+| **APM Programs** | Limited PM experience, competitive candidates | Associate PM programs at Google, Meta, and Microsoft are structured and built for outsiders, but they are highly competitive. |
+| **PM-Adjacent Roles** | No direct PM experience yet | Product Analyst, Product Operations, or Technical Program Manager roles can serve as stepping stones when a direct PM role isn't available. |
+| **Direct Application** | Strong portfolio + adjacent experience | Apply directly to PM roles with your portfolio as the primary signal. |
+
+**The honest truth:** Most PMs at top companies moved in from an adjacent role or transferred internally. If you can take an adjacent role at a company you want to work at, that is often a faster path than applying cold to PM roles.
+
+---
+
 ### Week 9: Strategic Job Applications
 
 **8 PM-Friendly Job Boards:**
@@ -448,7 +511,16 @@ Best,
 
 ---
 
-### Week 11: Interview Prep - Behavioral Questions
+### Week 11: Interview Prep - The Four Things PM Interviews Actually Test
+
+PM interviews consistently evaluate four areas. Practice all four with real scenario questions — not just memorized frameworks.
+
+| Area | What They're Testing | How to Prepare |
+|---|---|---|
+| **Product Sense** | How you think about user problems and evaluate solutions | Do product teardowns, write mini-PRDs, practice CIRCLES method |
+| **Analytical Thinking** | How you use data to make decisions | Practice metrics questions, basic SQL fluency helps here |
+| **Execution** | How you prioritize and manage delivery under real constraints | RICE/MoSCoW practice, behavioral questions on trade-offs |
+| **Leadership** | How you influence engineering, design, and business stakeholders without formal authority | Behavioral questions focused on cross-functional alignment |
 
 **30 Behavioral Questions by Company Type:**
 
@@ -491,7 +563,7 @@ Best,
 **STAR Method Template:**
 - **Situation**: Set the context (2 sentences)
 - **Task**: Your responsibility (1 sentence)
-- **Action**: What YOU did (3-4 sentences) 
+- **Action**: What YOU did (3-4 sentences)
 - **Result**: Quantifiable outcome (1-2 sentences)
 
 ---
@@ -744,3 +816,15 @@ ORU's **Hands-On Data Analytics** course teaches you to think like a practitione
 Use code **ORU10** for 10% off → [Enroll Now](https://joinoru.com/course/hands-on-data-analytics:-learn-by-building-industry-projects)
 
 *For mentorship, live sessions, and community support: [joinoru.com](https://joinoru.com)*
+
+---
+
+## ORU Product Management Meetup — July 25, Mississauga
+
+This is an in-person event where we walk through this exact roadmap together, review real PRD examples, and open the floor for questions with mentors who are currently working as Product Managers — including at companies like Google.
+
+- **Date:** July 25th
+- **Location:** Hazel McCallion Central Library, Mississauga
+- **Details & Registration:** [How AI is Reshaping the PM Role — Eventbrite](https://www.eventbrite.ca/e/how-ai-is-reshaping-the-pm-role-tickets-1994109525270)
+
+If you want to go deeper than this doc, this meetup is the place to bring your questions.
