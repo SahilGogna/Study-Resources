@@ -24,8 +24,9 @@ These platforms host openings from recently funded or fast-growing startups.
 | 6 | **Y Combinator Job Board** | Jobs at top YC-backed startups globally, including Canada. | [https://www.ycombinator.com/jobs/role/software-engineer](https://www.ycombinator.com/jobs/role/software-engineer) |
 | 7 | **Techstars Job Portal** | Find openings across Techstars accelerator network. | [https://jobs.techstars.com/jobs?filter=eyJzZWFyY2hhYmxlX2xvY2F0aW9ucyI6WyJDYW5hZGEiXSwib3JnYW5pemF0aW9uLmluZHVzdHJ5X3RhZ3MiOlsiU29mdHdhcmUiXX0%3D](https://jobs.techstars.com/jobs?filter=eyJzZWFyY2hhYmxlX2xvY2F0aW9ucyI6WyJDYW5hZGEiXSwib3JnYW5pemF0aW9uLmluZHVzdHJ5X3RhZ3MiOlsiU29mdHdhcmUiXX0%3D) |
 | 8 | **Founder Institute Network** | Discover startup jobs in the Founder Institute global network. | [https://fi.co/startupjobs](https://fi.co/startupjobs) |
+| 9 | **Hanzilla Jobs** | Free daily-updated Canadian student and recent-grad job board for internships, co-ops, new grad, junior, and entry-level roles across tech, finance, engineering, business, sciences, and more. Useful when you want Canada-specific early-career roles beyond startup-only boards. | [https://jobs.hanzilla.co/internships/](https://jobs.hanzilla.co/internships/) |
 
-💡 *Tip:* Bookmark these boards — they’re the “hidden gems” where most early-stage companies post before going public on LinkedIn.
+💡 *Tip:* Bookmark these boards — they’re the “hidden gems” where most early-stage companies post before going public on LinkedIn. For students and recent grads, pair startup boards with a Canada-specific internship/new-grad board so you do not miss early-career roles from larger employers and non-tech teams.
 
 ---
 
