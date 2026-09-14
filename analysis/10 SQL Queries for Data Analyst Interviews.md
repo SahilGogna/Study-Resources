@@ -1,12 +1,16 @@
 # 10 SQL Queries for Data Analyst Interviews
 
-These aren't random questions. After reviewing 100+ data analyst interviews, these patterns show up repeatedly.
+Start here. These are the basics, the patterns that come up again and again in screening rounds, take-home tests, and entry-level data analyst interviews. If you are just getting started with SQL, this is your baseline.
 
-**What you'll learn:**
+Be clear about what this is not. These are not FAANG-level questions. A real FAANG or senior analyst SQL round goes much further: multi-CTE problems, funnel and retention analysis, self-joins on event tables, gaps and islands, and query optimization. Finding a second highest salary with MAX will not get you through that round.
 
-- Based on real FAANG + startup interviews
-- Covers beginner to intermediate difficulty
-- Tests your practical SQL knowledge
+So treat these ten as the floor, not the ceiling. If you cannot write all ten from memory, you are not ready for the harder stuff yet. If you can, you have the fundamentals that every data analyst interview assumes you already know, and you are ready to move up.
+
+**What this covers:**
+
+- Beginner to early-intermediate difficulty
+- The SQL fundamentals interviewers expect you to have before they ask anything interesting
+- Practical patterns, not syntax trivia
 
 **Pro tip:** Practice writing these without looking at solutions first. Answers are at the end.
 
