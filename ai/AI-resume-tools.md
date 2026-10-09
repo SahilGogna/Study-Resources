@@ -55,6 +55,20 @@ Modern applicant tracking systems (ATS) filter resumes before they reach human r
 
 ---
 
+### [ResumeAI](https://withresumeai.com/)
+
+**Best for:** Free ATS checks plus an open employer-ATS dataset
+
+**Key Features:**
+- Free ATS checker (canonical domain withresumeai.com, not resume.ai)
+- Open State of ATS 2026 dataset (738 large employers, 704 portal-verified; Workday 37.9%)
+- AI resume builder with freemium plans
+- Embeddable checker at https://withresumeai.com/embed
+
+**Ideal Use Case:** Checking ATS readiness without a paid Jobscan scan, and understanding which ATS large employers actually use
+
+---
+
 ### [Kickresume](https://www.kickresume.com)
 
 **Best for:** Professional templates with AI assistance
