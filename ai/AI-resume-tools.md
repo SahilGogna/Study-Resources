@@ -10,6 +10,20 @@ Modern applicant tracking systems (ATS) filter resumes before they reach human r
 
 ## Tools Comparison
 
+### [JobEmerge](https://www.jobemerge.work)
+
+**Best for:** Job-fit analysis and multilingual resume workflows
+
+**Key Features:**
+- Job-fit analysis against a target job description
+- Resume translation into 19 preset languages plus a custom option
+- Markdown resume editing with PDF, Word, PNG, and Markdown export
+- ATS-ready resumes, cover letters, text-based mock interviews, and application tracking
+
+**Ideal Use Case:** Job seekers tailoring resumes and managing applications in one workflow
+
+---
+
 ### [Rezi](https://www.rezi.ai)
 
 **Best for:** ATS optimization and comprehensive resume analysis
@@ -119,11 +133,13 @@ Modern applicant tracking systems (ATS) filter resumes before they reach human r
 
 **For ATS Optimization:** Rezi, Jobscan, Novoresume
 
-**For Job Application Management:** Teal
+**For Job Application Management:** JobEmerge, Teal
 
 **For Design & Branding:** Enhancv, Kickresume
 
 **For Ease of Use:** Resume.io, Kickresume
+
+**For Multilingual Resume Workflows:** JobEmerge
 
 **For Multiple Versions:** Teal, Rezi
 
